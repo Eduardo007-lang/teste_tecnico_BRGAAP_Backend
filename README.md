@@ -21,7 +21,7 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
 
 2. **Configure a string de conexão do MongoDB**
 
-    No arquivo `appsettings.json`, configure a string de conexão do MongoDB:
+    No arquivo `appsettings.json`, configure a string de conexão do MongoDB, e na pasta `Schema.db`, importe os arquivos de .schema.json e depois as collections:
 
     ```json
     {
