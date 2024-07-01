@@ -1,0 +1,83 @@
+[{
+  "_id": {
+    "$oid": "667f3d7d1fd34dffecbea22d"
+  },
+  "NumeroNota": 1,
+  "Valor": 500
+},
+{
+  "_id": {
+    "$oid": "667f52a02969fa5b8d548aac"
+  },
+  "NumeroNota": 123,
+  "Valor": 100.5,
+  "Cliente": {
+    "_id": {
+      "$oid": "667f52a02969fa5b8d548aaa"
+    },
+    "Nome": "Cliente Teste"
+  },
+  "Fornecedor": {
+    "_id": {
+      "$oid": "667f52a02969fa5b8d548aab"
+    },
+    "Nome": "Fornecedor Teste"
+  }
+},
+{
+  "_id": {
+    "$oid": "6680c618e92d088fdfd0d95e"
+  },
+  "NumeroNota": 123,
+  "Valor": 100.5,
+  "Cliente": {
+    "_id": {
+      "$oid": "6680c617e92d088fdfd0d95c"
+    },
+    "Nome": "Cliente Teste"
+  },
+  "Fornecedor": {
+    "_id": {
+      "$oid": "6680c618e92d088fdfd0d95d"
+    },
+    "Nome": "Fornecedor Teste"
+  }
+},
+{
+  "_id": {
+    "$oid": "6681affdfe37d8dafae6d8a5"
+  },
+  "NumeroNota": 1,
+  "Valor": 150.75,
+  "Cliente": {
+    "_id": {
+      "$oid": "6681affdfe37d8dafae6d8a3"
+    },
+    "Nome": "Cliente Alpha"
+  },
+  "Fornecedor": {
+    "_id": {
+      "$oid": "6681affdfe37d8dafae6d8a4"
+    },
+    "Nome": "Fornecedor Omega"
+  }
+},
+{
+  "_id": {
+    "$oid": "6681b019fe37d8dafae6d8a8"
+  },
+  "NumeroNota": 3,
+  "Valor": 350,
+  "Cliente": {
+    "_id": {
+      "$oid": "6681b019fe37d8dafae6d8a6"
+    },
+    "Nome": "Cliente Gamma"
+  },
+  "Fornecedor": {
+    "_id": {
+      "$oid": "6681b019fe37d8dafae6d8a7"
+    },
+    "Nome": "Fornecedor Sigma"
+  }
+}]

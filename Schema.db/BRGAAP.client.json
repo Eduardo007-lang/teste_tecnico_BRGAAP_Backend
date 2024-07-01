@@ -1,0 +1,30 @@
+[{
+  "_id": {
+    "$oid": "667f39921fd34dffecbea220"
+  },
+  "nome": "Thiago"
+},
+{
+  "_id": {
+    "$oid": "667f52a02969fa5b8d548aaa"
+  },
+  "Nome": "Cliente Teste"
+},
+{
+  "_id": {
+    "$oid": "6680c617e92d088fdfd0d95c"
+  },
+  "Nome": "Cliente Teste"
+},
+{
+  "_id": {
+    "$oid": "6681affdfe37d8dafae6d8a3"
+  },
+  "Nome": "Cliente Alpha"
+},
+{
+  "_id": {
+    "$oid": "6681b019fe37d8dafae6d8a6"
+  },
+  "Nome": "Cliente Gamma"
+}]

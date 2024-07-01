@@ -1,0 +1,118 @@
+{
+  "count": 5,
+  "fields": [
+    {
+      "name": "_id",
+      "path": [
+        "_id"
+      ],
+      "count": 5,
+      "type": "ObjectId",
+      "probability": 1,
+      "hasDuplicates": false,
+      "types": [
+        {
+          "name": "ObjectId",
+          "path": [
+            "_id"
+          ],
+          "count": 5,
+          "probability": 1,
+          "unique": 5,
+          "hasDuplicates": false,
+          "values": [
+            "6681b019fe37d8dafae6d8a6",
+            "6680c617e92d088fdfd0d95c",
+            "667f39921fd34dffecbea220",
+            "667f52a02969fa5b8d548aaa",
+            "6681affdfe37d8dafae6d8a3"
+          ],
+          "bsonType": "ObjectId"
+        }
+      ]
+    },
+    {
+      "name": "Nome",
+      "path": [
+        "Nome"
+      ],
+      "count": 4,
+      "type": [
+        "String",
+        "Undefined"
+      ],
+      "probability": 0.8,
+      "hasDuplicates": true,
+      "types": [
+        {
+          "name": "String",
+          "path": [
+            "Nome"
+          ],
+          "count": 4,
+          "probability": 0.8,
+          "unique": 3,
+          "hasDuplicates": true,
+          "values": [
+            "Cliente Gamma",
+            "Cliente Teste",
+            "Cliente Teste",
+            "Cliente Alpha"
+          ],
+          "bsonType": "String"
+        },
+        {
+          "name": "Undefined",
+          "bsonType": "Undefined",
+          "unique": 1,
+          "hasDuplicates": false,
+          "path": [
+            "Nome"
+          ],
+          "count": 1,
+          "probability": 0.2
+        }
+      ]
+    },
+    {
+      "name": "nome",
+      "path": [
+        "nome"
+      ],
+      "count": 1,
+      "type": [
+        "String",
+        "Undefined"
+      ],
+      "probability": 0.2,
+      "hasDuplicates": true,
+      "types": [
+        {
+          "name": "String",
+          "path": [
+            "nome"
+          ],
+          "count": 1,
+          "probability": 0.2,
+          "unique": 1,
+          "hasDuplicates": false,
+          "values": [
+            "Thiago"
+          ],
+          "bsonType": "String"
+        },
+        {
+          "name": "Undefined",
+          "bsonType": "Undefined",
+          "unique": 0,
+          "hasDuplicates": true,
+          "path": [
+            "nome"
+          ],
+          "count": 4,
+          "probability": 0.8
+        }
+      ]
+    }
+  ]
+}
